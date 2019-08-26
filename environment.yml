@@ -1,0 +1,12 @@
+name: pymol-binderized
+channels:
+  - samoturk
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - pymol
+  - jupyter
+  - libglu
+  - glew
+  
