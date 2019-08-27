@@ -13,7 +13,7 @@ The notebooks available in the launched session demonstrate how to do things. Yo
 Resources
 ---------
 
-- **Looking for something easier than even typical PyMol? Don't want to use code to generate fancy structure images and animations/movies?** Then check out [POLYVIEW-3D server](http://polyview.cchmc.org/polyview3d.html). Using that webtool you an fill out forms and check toggle boxes to choose options and settings and then have the server render your image or animation using PyMol behind-the-scemes.
+- **Looking for something easier than even typical PyMol? Don't want to use code to generate fancy structure images and animations/movies?** Then check out [POLYVIEW-3D server](http://polyview.cchmc.org/polyview3d.html). Using that webtool you an fill out forms and check toggle boxes to choose options and settings and then have the server render your image or animation using PyMol behind-the-scenes.
 
 Technical note
 --------------
