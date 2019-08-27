@@ -8,7 +8,8 @@ Click a 'launch binder' badge on this page to begin an active session where PyMo
 
 This repo is meant to allow running PyMol without the typical graphical user interface (GUI), instead running headless using the command line/scripting, in order to extract details from molecular structure files or to render single static images or frames to compose into a movie.
 
-The notebooks available in the launched session demonstrate how to do things. You can use those examples as a guide to then analyze and make images of molecules of interest to you.
+The notebooks available in the launched session demonstrate how to do things.  
+You can use those examples as a guide to then analyze and make images of molecules of interest to you.
 
 Resources
 ---------
