@@ -16,6 +16,8 @@ Resources
 
 - [PyMOL Wiki](https://pymolwiki.org/index.php/Main_Page)
 
+- [List of the PyMol API commands](https://pymol.org/dokuwiki/doku.php?do=search&id=api)
+
 - [My structurework repo](https://github.com/fomightez/structurework) - related utilities by myself and others.
 
 Alternatives
