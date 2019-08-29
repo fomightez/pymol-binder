@@ -1,11 +1,12 @@
 name: pymol-binderized
 channels:
+  - schrodinger
   - samoturk
   - conda-forge
   - anaconda
 dependencies:
   - python
-  - pymol
+  - pymol>=2.3
   - jupyterlab>=1.0
   - libglu
   - glew
