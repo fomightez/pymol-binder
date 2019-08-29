@@ -18,6 +18,8 @@ Resources
 
 - [List of the PyMol API commands](https://pymol.org/dokuwiki/doku.php?do=search&id=api)
 
+- [A tutorial for PyMol](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
+
 - [My structurework repo](https://github.com/fomightez/structurework) - related utilities by myself and others.
 
 Alternatives
