@@ -16,7 +16,7 @@ Resources
 
 - [PyMOL Wiki](https://pymolwiki.org/index.php/Main_Page)
 
-- [List of the PyMol API commands](https://pymol.org/dokuwiki/doku.php?do=search&id=api)
+- [List of the PyMol API commands](https://pymol.org/dokuwiki/doku.php?id=api:cmd:alpha)
 
 - [A tutorial for PyMol](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
 
