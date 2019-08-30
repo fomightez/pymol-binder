@@ -20,7 +20,7 @@ Resources
 
 - [A tutorial for PyMol](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
 
-- [My structurework repo](https://github.com/fomightez/structurework) - related utilities by myself and others.
+- [My structurework repo](https://github.com/fomightez/structurework) - includes PyMol-related utilities by myself and others.
 
 Alternatives
 ------------
