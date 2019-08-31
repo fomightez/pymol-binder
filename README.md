@@ -24,6 +24,8 @@ Resources
 
 - [A tutorial for PyMol](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
 
+- [An old PyMol Quick reference guide](https://www.feinberg.northwestern.edu/sites/csgid/docs/pymol_quick_reference.pdf) that includes 'Creating Low Resolution Surfaces of Large Systems', which looks related to the [Huge surfaces](https://pymolwiki.org/index.php/Huge_surfaces) page at the PyMol wikie, yet presents different choices in the settings.
+
 - [My structurework repo](https://github.com/fomightez/structurework) - includes PyMol-related utilities by myself and others.
 
 Alternatives
