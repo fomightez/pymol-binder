@@ -20,7 +20,7 @@ Resources
 
 - [Online Supplemental content "An Introduction to Biomolecular Graphics" published in PLoS Comput Biol (2010)](https://pymolwiki.org/index.php/PLoS) that includes code for generating several images.
 
-- [PyMol tutorial from Nicholas Fitzkee's Structual Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire set of materials for session 8 [http://fitzkee.chemistry.msstate.edu/node/250]
+- [PyMol tutorial from Nicholas Fitzkee's Structual Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire set of materials for [session 8](http://fitzkee.chemistry.msstate.edu/node/250).
 
 - [A tutorial for PyMol](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
 
