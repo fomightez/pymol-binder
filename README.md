@@ -18,6 +18,8 @@ Resources
 
 - [List of the PyMol API commands](https://pymol.org/dokuwiki/doku.php?id=api:cmd:alpha) (Note that this doesn't seem to include the the utilities library's commands, such as [Util.cbc()](https://pymolwiki.org/index.php/CBC), and in fact I could only find [these related mentions](https://pymol.org/dokuwiki/doku.php?do=search&id=util) among the PyMol documentation.)
 
+- [PyMOL Command Reference](https://pymol.org/pymol-command-ref.html) lists of all PyMOL commands which can be used in the PyMOL command line and in PML scripts.; it features several of the  utilities library's commands, such as `util.cbc` that wasn't listed in the API commands.
+
 - [Online Supplemental content "An Introduction to Biomolecular Graphics" published in PLoS Comput Biol (2010)](https://pymolwiki.org/index.php/PLoS) that includes code for generating several images.
 
 - [PyMol tutorial from Nicholas Fitzkee's Structual Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire set of materials for [session 8](http://fitzkee.chemistry.msstate.edu/node/250).
