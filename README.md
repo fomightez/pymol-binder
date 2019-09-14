@@ -6,7 +6,7 @@ PyMol able to be run via MyBinder.org.
 
 Click a 'launch binder' badge on this page to begin an active session where PyMol and the necessary dependencies are set to run.
 
-This repo is meant to allow running PyMol without the typical graphical user interface (GUI), instead running headless using the command line/scripting, in order to extract details from molecular structure files or to render single static images or frames to compose into a movie or animation.
+This repo is meant to allow running PyMol without the typical graphical user interface (GUI) of the desktop application, instead running headless using the command line/scripting. While this doesn't allow the interactive exploration common in PyMol desktop use, many other interactions can still be performed without the GUI, such as extracting details from molecular structure files or rendering single static images or multiple image frames to compose into a movie or animation.
 
 The notebooks available in the launched session demonstrate how to do things.  
 You can use those examples as a guide to then analyze and make images or movies/animations of molecules of interest to you.
@@ -33,7 +33,7 @@ Resources
 Alternatives
 ------------
 
-**Looking for something easier than even typical PyMol? Don't want to use code to generate fancy structure images and animations/movies?**  
+**Looking for something easier than even typical desktop PyMol? Don't want to use code to generate fancy structure images and animations/movies?**  
 Then check out [POLYVIEW-3D server](http://polyview.cchmc.org/polyview3d.html). Using that webtool you an fill out forms and check toggle boxes to choose options and settings and then have the server render your image or animation using PyMol behind-the-scenes.
 
 Technical note
