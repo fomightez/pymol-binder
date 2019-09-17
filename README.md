@@ -30,6 +30,15 @@ Resources
 
 - [My structurework repo](https://github.com/fomightez/structurework) - includes PyMol-related utilities by myself and others.
 
+Why do I need this?
+-------------------
+
+**Example Uses**
+
+Sampling different ways to apply a color palette to chains is more easily done with scripts.
+
+![](doc/color_combo_example.gif)
+
 Alternatives
 ------------
 
