@@ -35,7 +35,7 @@ Why do I need this?
 
 **Example Uses**
 
-Sampling different ways to apply a color palette to chains is more easily done with scripts.
+Sampling different ways to apply a color palette to chains is more easily done with scripts. This allows you to consider your options for applying colors to chains.
 
 ![](doc/color_combo_example.gif)
 
