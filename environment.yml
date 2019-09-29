@@ -14,7 +14,7 @@ dependencies:
   - seaborn
   - libglu
   - glew
-  - gfortran_linux-64
+  - netpbm
   - pip
 
   
