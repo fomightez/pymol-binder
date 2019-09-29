@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Get David Goodsell's Illustrate
+git clone https://github.com/ccsb-scripps/Illustrate.git
+cd Illustrate/
+gfortran illustrate.f -o illustrate
+
+# Create alias for Illustrate ("~/.local/bin" is in the PATH)
+mkdir -p ~/.local/bin
+cd ~/.local/bin
+mv ~/Illustrate .
+ln -s ~/.local/bin/Illustrate/illustrate illustrate
