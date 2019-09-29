@@ -15,6 +15,5 @@ dependencies:
   - libglu
   - glew
   - pip
-  - pip:
-        - https://github.com/ccsb-scripps/Illustrate/archive/master.zip
+
   
