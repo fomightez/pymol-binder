@@ -4,6 +4,7 @@ channels:
   - samoturk
   - conda-forge
   - anaconda
+  
 dependencies:
   - python
   - pymol>=2.3
