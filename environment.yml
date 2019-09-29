@@ -16,5 +16,5 @@ dependencies:
   - glew
   - pip
   - pip:
-        - https://github.com/ccsb-scripps/Illustrate.zip
+        - https://github.com/ccsb-scripps/Illustrate/archive/master.zip
   
