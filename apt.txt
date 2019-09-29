@@ -4,3 +4,4 @@ libglx-mesa0
 libglu1-mesa
 libxrandr2
 libxi6
+gfortran
