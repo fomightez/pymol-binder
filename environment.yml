@@ -8,6 +8,11 @@ dependencies:
   - python
   - pymol>=2.3
   - jupyterlab>=1.0
+  - pandas
+  - matplotlib
+  - seaborn
   - libglu
   - glew
+  - pip:
+        - https://github.com/ccsb-scripps/Illustrate.zip
   
