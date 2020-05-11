@@ -22,11 +22,11 @@ Resources
 
 - [Online Supplemental content "An Introduction to Biomolecular Graphics" published in PLoS Comput Biol (2010)](https://pymolwiki.org/index.php/PLoS) that includes code for generating several images.
 
-- [PyMOL tutorial from Nicholas Fitzkee's Structual Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire set of materials for [session 8](http://fitzkee.chemistry.msstate.edu/node/250).
+- [PyMOL tutorial from Nicholas Fitzkee's Structual Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire [set of materials for session 8 that features molecular visualization with PyMOL](http://fitzkee.chemistry.msstate.edu/node/250).
 
 - [A tutorial for PyMOL](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
 
-- [An old PyMOL Quick reference guide](https://www.feinberg.northwestern.edu/sites/csgid/docs/pymol_quick_reference.pdf) that includes 'Creating Low Resolution Surfaces of Large Systems', which looks related to the [Huge surfaces](https://pymolwiki.org/index.php/Huge_surfaces) page at the PyMOL wikie, yet presents different choices in the settings.
+- [A 2009 PyMOL Quick reference guide](https://www.feinberg.northwestern.edu/sites/csgid/docs/pymol_quick_reference.pdf) that includes 'Creating Low Resolution Surfaces of Large Systems', which looks related to the [Huge surfaces](https://pymolwiki.org/index.php/Huge_surfaces) page at the PyMOL wikie, yet presents different choices in the settings.
 
 - [My structurework repo](https://github.com/fomightez/structurework) - includes PyMOL-related utilities by myself and others.
 
