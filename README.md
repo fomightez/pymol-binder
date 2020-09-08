@@ -39,6 +39,15 @@ Sampling different ways to apply a color palette to chains is more easily done w
 
 ![](doc/color_combo_example.gif)
 
+Notebooks included
+------------------
+
+- Getting a Structure and Producing an Image
+- Setting an Orientation
+- Dealing with PyMol colors
+- Sampling Various Combinations of Applying A Color Palette to a Complex
+- Applying a Color Combination Choice to a Complex
+
 Alternatives
 ------------
 
