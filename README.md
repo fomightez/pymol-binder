@@ -26,9 +26,9 @@ Resources
 
 - [PyMOL tutorial from Nicholas Fitzkee's Structural Biology Bootcamp 2019](http://folding.chemistry.msstate.edu/files/bootcamp/2019/session-08_pymol-tutorial.pdf), plus see the entire [set of materials for session 8 that features molecular visualization with PyMOL](http://fitzkee.chemistry.msstate.edu/node/250).
 
-- [A tutorial for PyMOL](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here.
+- [A tutorial for PyMOL](http://www.pitt.edu/~epolinko/IntroPyMOL.pdf) - uses the standard graphical user interface. And so you might use that to see how some things are done and try performing the steps via scripts here. Or, work through it in the standard graphical user interface in sessions launched from [here](https://github.com/fomightez/Jupyter-desktop_with_pymol).
 
-- A 2021 [tutorial for PyMOL](https://www.dropbox.com/s/8rz2j5n90wl850g/Tutorial%20For%20PyMol-General.pdf?dl=0) by Dafydd Jones. Same tutorial in Word form is [here](https://www.dropbox.com/scl/fi/4k8r0qc016nynkirs1psb/Tutorial-For-PyMol-General.docx?dl=0&rlkey=azy9xchollctasxfrbk220fnt). See [here for source](https://twitter.com/drdafyddj/status/1364651115426549766).
+- A 2021 [tutorial for PyMOL](https://www.dropbox.com/s/8rz2j5n90wl850g/Tutorial%20For%20PyMol-General.pdf?dl=0) by Dafydd Jones. Same tutorial in Word form is [here](https://www.dropbox.com/scl/fi/4k8r0qc016nynkirs1psb/Tutorial-For-PyMol-General.docx?dl=0&rlkey=azy9xchollctasxfrbk220fnt). See [here for source](https://twitter.com/drdafyddj/status/1364651115426549766). Work through it in the standard graphical user interface in sessions launched from [here](https://github.com/fomightez/Jupyter-desktop_with_pymol).
 
 - [A 2009 PyMOL Quick reference guide](https://www.feinberg.northwestern.edu/sites/csgid/docs/pymol_quick_reference.pdf) that includes 'Creating Low Resolution Surfaces of Large Systems', which looks related to the [Huge surfaces](https://pymolwiki.org/index.php/Huge_surfaces) page at the PyMOL wikie, yet presents different choices in the settings.
 
