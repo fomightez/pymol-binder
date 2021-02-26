@@ -8,7 +8,7 @@ Click a 'launch binder' badge on this page to begin an active session where PyMO
 
 This repo is meant to allow running PyMOL **without the typical graphical user interface (GUI) of the desktop application**, instead running headless using the command line/scripting. While this doesn't allow the interactive exploration common in PyMOL desktop use, many other interactions can still be performed without the GUI, such as extracting details from molecular structure files or rendering single static images or multiple image frames to compose into a movie or animation.
 
-(If you need the typical PyMOL desktop application without requiring users to install on their own computers, see [here](https://github.com/fomightez/Jupyter-desktop_with_pymol).)
+(**If you need the typical PyMOL desktop application without requiring users to install on their own computers, see [here](https://github.com/fomightez/Jupyter-desktop_with_pymol)**.)
 
 The notebooks available in the launched session demonstrate how to do things.  
 You can use those examples as a guide to then analyze and make images or movies/animations of molecules of interest to you.
