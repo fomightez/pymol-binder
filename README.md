@@ -2,11 +2,11 @@
 
 
 # pymol-binder
-PyMOL able to be run via MyBinder.org.
+PyMOL scripting able to be run via MyBinder.org.
 
 Click a 'launch binder' badge on this page to begin an active session where PyMOL and the necessary dependencies are set to run.
 
-This repo is meant to allow running PyMOL **without the typical graphical user interface (GUI) of the desktop application**, instead running headless using the command line/scripting. While this doesn't allow the interactive exploration common in PyMOL desktop use, many other interactions can still be performed without the GUI, such as extracting details from molecular structure files or rendering single static images or multiple image frames to compose into a movie or animation.
+This repo is meant to allow running PyMOL **without the typical graphical user interface (GUI) of the desktop application**, instead running headless using the commands, a.k.a., scripting. While this doesn't allow the interactive exploration common in PyMOL desktop use, many other interactions can still be performed without the GUI, such as extracting details from molecular structure files or rendering single static images or multiple image frames to compose into a movie or animation.
 
 (**If you need the typical PyMOL desktop application without requiring users to install on their own computers, see [here](https://github.com/fomightez/Jupyter-desktop_with_pymol)**.)
 
@@ -51,9 +51,12 @@ Notebooks included
 - Dealing with PyMol colors
 - Sampling Various Combinations of Applying A Color Palette to a Complex
 - Applying a Color Combination Choice to a Complex
+- Iterating on residues of a chain to learn the secondary structure designation
 
 Alternatives
 ------------
+
+If you need the typical PyMOL desktop application without requiring users to install on their own computers, see [here](https://github.com/fomightez/Jupyter-desktop_with_pymol)
 
 **Looking for something easier than even typical desktop PyMOL? Don't want to use code to generate fancy structure images and animations/movies?**  
 Then check out [POLYVIEW-3D server](http://polyview.cchmc.org/polyview3d.html). Using that webtool you an fill out forms and check toggle boxes to choose options and settings and then have the server render your image or animation using PyMOL behind-the-scenes.
