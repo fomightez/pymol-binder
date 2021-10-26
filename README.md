@@ -61,10 +61,12 @@ If you need the typical PyMOL desktop application without requiring users to ins
 **Looking for something easier than even typical desktop PyMOL? Don't want to use code to generate fancy structure images and animations/movies?**  
 Then check out [POLYVIEW-3D server](http://polyview.cchmc.org/polyview3d.html). Using that webtool you an fill out forms and check toggle boxes to choose options and settings and then have the server render your image or animation using PyMOL behind-the-scenes.
 
-Technical note
---------------
+Technical notes
+---------------
 
 The necessary packages to make PyMOL useable via the MyBinder.org system was worked out by [Dominique Sydow](https://github.com/dominiquesydow), see the repo [here](https://github.com/dominiquesydow/pymolmeetsbinder).
 
+
+Run `!pymol --diagnostics` in a Jupyter notebook cell to get a nice little report about PyMOL version and things like `OpenGL Driver: ... PyQt5 5.12.3 (Qt 5.12.9)`
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pymol-binder/master?filepath=index.ipynb)
