@@ -8,7 +8,6 @@ channels:
 dependencies:
   - python
   - pymol>=2.3
-  - jupyterlab>=1.0
   - pandas
   - matplotlib
   - seaborn
